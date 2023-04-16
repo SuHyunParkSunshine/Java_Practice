@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author qkrtn
+ *
+ */
+module edupractice {
+}
